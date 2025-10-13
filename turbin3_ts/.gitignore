@@ -1,0 +1,9 @@
+# ignore node_modules everywhere
+node_modules/
+
+# ignore all wallet JSON files everywhere
+*wallet.json
+
+# build outputs
+dist/
+target/
