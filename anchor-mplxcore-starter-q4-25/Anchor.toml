@@ -5,14 +5,14 @@ package_manager = "yarn"
 resolution = true
 skip-lint = false
 
-[programs.devnet]
-anchor_vault_q4_25 = "8pw2JdDmFji3NWeRHqf8yLwxrm6n66pr5jVkTgmY9UTE"
+[programs.localnet]
+anchor_mplxcore_q4_25 = "3feeK7HhTHmmr9ofcsNSb5QjQ6c8Vyhsko6E377Eo2yC"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "devnet"
+cluster = "localnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
