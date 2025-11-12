@@ -7,7 +7,7 @@ pub struct WhitelistCreator<'info> {
     #[account(mut)]
     pub payer: Signer<'info>,
     /// CHECK should be a keypair
-    pub creator: UncheckedAccount<'info>,
+    pub creator: UncheckedAccount<'info>, 
     #[account(
         init_if_needed, 
         payer = payer,
