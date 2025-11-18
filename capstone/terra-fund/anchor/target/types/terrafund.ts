@@ -5,7 +5,7 @@
  * IDL can be found at `target/idl/terrafund.json`.
  */
 export type Terrafund = {
-  "address": "3aL9WHmiYUHC1BbkPmv4uDehQEQq6CT2FeDkEeamLqRs",
+  "address": "HyE9YtQ2JDSpfqyWN1Z1y7jv4LH9Z7yAz98GvZ1kmY7f",
   "metadata": {
     "name": "terrafund",
     "version": "0.1.0",

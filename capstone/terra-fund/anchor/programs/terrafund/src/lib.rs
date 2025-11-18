@@ -9,7 +9,7 @@ use instructions::*;
 #[allow(unused_imports)]
 use states::*;
 
-declare_id!("3aL9WHmiYUHC1BbkPmv4uDehQEQq6CT2FeDkEeamLqRs");
+declare_id!("HyE9YtQ2JDSpfqyWN1Z1y7jv4LH9Z7yAz98GvZ1kmY7f");
 
 #[program]
 pub mod terrafund {

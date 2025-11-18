@@ -6,16 +6,16 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-terrafund = "3aL9WHmiYUHC1BbkPmv4uDehQEQq6CT2FeDkEeamLqRs"
+terrafund = "HyE9YtQ2JDSpfqyWN1Z1y7jv4LH9Z7yAz98GvZ1kmY7f"
 
 [programs.devnet]
-terrafund = "3aL9WHmiYUHC1BbkPmv4uDehQEQq6CT2FeDkEeamLqRs"
+terrafund = "HyE9YtQ2JDSpfqyWN1Z1y7jv4LH9Z7yAz98GvZ1kmY7f"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/home/subodh/keypair_cohorts.json"
 
 
